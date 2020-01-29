@@ -1,5 +1,14 @@
 # Bruh
-<form method="get" action="http://www.google.com/search" target="_blank">
-<input type="hidden" name="sitesearch" value="ibkc-carrosserie.nl" />
-<input type="text" name="q" maxlength="255" placeholder="Search with Google" />
-</form>
+<!DOCTYPE html> 
+<html lang="es"> 
+  <head> 
+    <meta charset="UTF-8"> 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> 
+    <title>Caja de Busqueda con efecto</title> </head> <body> <div class="buscar-caja"> 
+  <input type="text" name="" class="buscar-txt" placeholder="Buscar..."/>
+  <a class="buscar-btn"> 
+    <i class="far fa-search"></i>
+  </a> 
+  </div>
+  </body> 
+</html>
